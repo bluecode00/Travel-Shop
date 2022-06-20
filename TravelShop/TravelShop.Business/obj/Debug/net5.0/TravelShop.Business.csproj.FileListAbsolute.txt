@@ -1,0 +1,17 @@
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Business.deps.json
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Business.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\ref\TravelShop.Business.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Business.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Data.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Entity.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Data.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\bin\Debug\net5.0\TravelShop.Entity.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\ref\TravelShop.Business.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Business\obj\Debug\net5.0\TravelShop.Business.csproj.CopyComplete

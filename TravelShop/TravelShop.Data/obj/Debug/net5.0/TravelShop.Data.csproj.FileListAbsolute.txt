@@ -1,0 +1,17 @@
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Data.deps.json
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Data.runtimeconfig.json
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Data.runtimeconfig.dev.json
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Data.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\ref\TravelShop.Data.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Data.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Entity.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\bin\Debug\net5.0\TravelShop.Entity.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\ref\TravelShop.Data.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Data\obj\Debug\net5.0\TravelShop.Data.genruntimeconfig.cache

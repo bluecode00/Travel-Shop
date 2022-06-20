@@ -1,0 +1,12 @@
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\bin\Debug\net5.0\TravelShop.Entity.deps.json
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\bin\Debug\net5.0\TravelShop.Entity.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\bin\Debug\net5.0\ref\TravelShop.Entity.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\bin\Debug\net5.0\TravelShop.Entity.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\ref\TravelShop.Entity.dll
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.pdb
+C:\Users\Wissen\Desktop\Projeler\TravelShop\TravelShop\TravelShop.Entity\obj\Debug\net5.0\TravelShop.Entity.csproj.AssemblyReference.cache
