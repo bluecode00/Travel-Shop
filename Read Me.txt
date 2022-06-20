@@ -1,0 +1,7 @@
+2 adet kullanıcı vardır. test ve user adında.
+
+Kullanıcı Adı	: user
+Şifre		: User123.
+
+Kullanıcı Adı	: test
+Şifre		: Qwe123.
