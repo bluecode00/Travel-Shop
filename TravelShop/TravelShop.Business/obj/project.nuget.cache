@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNSYUkGa6JXXROoWK+3eBWZZSGY3Fn6K0j7Vwx3ywICuAKOxvU3rWAVT9Wf3JY1En3Q2Mxz7i95ypVdUGkc7aQ==",
+  "dgSpecHash": "B9xQs4MF/JeloO/Gqm38clabFDsXZVz9BUL1fV8qbZ+j7lF22EPE6GLdUHqWEWML1Mje6I6YrL7MQl2jSdqjVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Business\\TravelShop.Business.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Business\\TravelShop.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.16\\microsoft.data.sqlite.core.5.0.16.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

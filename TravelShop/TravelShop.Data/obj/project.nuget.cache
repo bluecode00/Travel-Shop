@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvgx7ZHWdWkdwulzisJYH7gKHIC5tYBR1GVTIw0oQ9yZSAdxoFp/OTWymAAcqUOCCMX8/dZ3LscN2e0L8oJOWA==",
+  "dgSpecHash": "V3fJ2MHtqKWGu9V4QQRA5JgW7HfqLcYmiw+j+Hs/fvEiHD4DuO3QLCfcf1hb94/fT4komoFW20aJSNwZKfAqYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Data\\TravelShop.Data.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Data\\TravelShop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

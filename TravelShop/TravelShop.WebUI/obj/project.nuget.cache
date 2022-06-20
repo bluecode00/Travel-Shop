@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eg8IzOAaNnRqha059kv/rP9nHHxxEnIr7cLtn6tz/rP0a5QHR0CO+GzoE4swM2ABdDrLuW5rX0prE+icslYJ0w==",
+  "dgSpecHash": "MEe+1dPRJzMAJD2fPFUKeVuHi4yO9Xp77fVyHCnzahn/nMSSvEBOTVjHKpXb+LU5BwBEVMEWYwPikjGN23LaoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.WebUI\\TravelShop.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.WebUI\\TravelShop.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.16\\microsoft.aspnetcore.cryptography.internal.5.0.16.nupkg.sha512",

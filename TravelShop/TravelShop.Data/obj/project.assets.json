@@ -1097,11 +1097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Data\\TravelShop.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Data\\TravelShop.Data.csproj",
       "projectName": "TravelShop.Data",
-      "projectPath": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Data\\TravelShop.Data.csproj",
+      "projectPath": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Data\\TravelShop.Data.csproj",
       "packagesPath": "C:\\Users\\Wissen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Data\\obj\\",
+      "outputPath": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1124,8 +1124,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Entity\\TravelShop.Entity.csproj": {
-              "projectPath": "C:\\Users\\Wissen\\Desktop\\Projeler\\TravelShop\\TravelShop\\TravelShop.Entity\\TravelShop.Entity.csproj"
+            "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Entity\\TravelShop.Entity.csproj": {
+              "projectPath": "C:\\Users\\Wissen\\Desktop\\TravelShop\\Travel-Shop\\TravelShop\\TravelShop.Entity\\TravelShop.Entity.csproj"
             }
           }
         }
